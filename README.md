@@ -53,6 +53,13 @@ This project enhanced my understanding of:
 
 ---
 
+## 📸 Demo
+
+A quick walkthrough of this project is available on my [LinkedIn post](#)  
+📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_IrisFlowerClassification.git)
+
+---
+
 ## ✅ Completed as part of:
 **CodeAlpha Internship – Task 2: Unemployment Analysis**
 
