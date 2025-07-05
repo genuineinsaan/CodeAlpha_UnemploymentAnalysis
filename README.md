@@ -56,6 +56,7 @@ This project enhanced my understanding of:
 ## 📸 Demo
 
 A quick walkthrough of this project is available on my [LinkedIn post](https://www.linkedin.com/posts/shashank-srivastava-58269b281_codealpha-python-datascience-activity-7347216970204778496-aPcd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESffnIBDh79S70FAApN1S-hCSb2FmhSRto)
+
 📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_UnemploymentAnalysis.git)
 
 ---
